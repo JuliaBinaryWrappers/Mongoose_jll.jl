@@ -1,6 +1,6 @@
 name = "Mongoose_jll"
 uuid = "0a8a3f5b-4c0e-5906-8e29-5b3fee15539c"
-version = "7.18.0+0"
+version = "7.19.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
