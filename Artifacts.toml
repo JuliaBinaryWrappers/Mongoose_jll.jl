@@ -1,160 +1,160 @@
 [[Mongoose]]
 arch = "aarch64"
-git-tree-sha1 = "9109964c8919c3c015133256b27e73b186b2d4bb"
+git-tree-sha1 = "2e734e458f7cd26e83ff64d54d433b3f671a9267"
 os = "macos"
 
     [[Mongoose.download]]
-    sha256 = "41f49064eef8cd37400fb6e9fba56aca74720cb2d36e560f88d118562d0c6864"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "3b57601dca18e84520e7d0092691378eb7c9bf0209176915899c87f6533df869"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.aarch64-apple-darwin.tar.gz"
 [[Mongoose]]
 arch = "aarch64"
-git-tree-sha1 = "9a135ff20af10710db222da204801823e5104fec"
+git-tree-sha1 = "de8784158eb56bff7465fa4e6970f087dfafe787"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "a3e9823b6128368026fa2d69375481d31a3cdfae8469e52c509374cdae1954e9"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "ad0a770e7a2c66bd3c1fb96c5f410d70b6d703dd3acf15db106ec073b5a4dd4a"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.aarch64-linux-gnu.tar.gz"
 [[Mongoose]]
 arch = "aarch64"
-git-tree-sha1 = "cbc7b3c46122ea702bba9dae2d658986f32b5055"
+git-tree-sha1 = "059e307b91660b1d54bc17664938587c966c83fd"
 libc = "musl"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "05bc1add5813d9ceecb4303699bea3da1e63de90304bb655fcc9544a98a3521f"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.aarch64-linux-musl.tar.gz"
+    sha256 = "8bcd4ded0761634c5215434d932e6a34245d7923b556809b63023456b1283380"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.aarch64-linux-musl.tar.gz"
 [[Mongoose]]
 arch = "aarch64"
-git-tree-sha1 = "dd2187bae16b02da3d81bdd02c92405b81aa7452"
+git-tree-sha1 = "71169aac111d119c050f9f706f980dc905b3e70b"
 os = "freebsd"
 
     [[Mongoose.download]]
-    sha256 = "e07e2f1802d5912034e38e955d6948806e993def1b27325d950a9a0537e933b6"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "1595767dc7765f5b018c10de558602590cb6affa8f0dd180599a8123f92cbefe"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.aarch64-unknown-freebsd.tar.gz"
 [[Mongoose]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "66437c99bc2eb2adda377cda9d71018599112b9d"
+git-tree-sha1 = "e2b4d1b3dea51b842128237b5b37a090e0ea304d"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "3f07c5b278536090bcc2d5b05e68641e1aaed0882918865bd0174c401f965a84"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "b6fa9777b8cf178d451805e1561e280744d21aeaa4d66fbe17e449adf453e781"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.armv6l-linux-gnueabihf.tar.gz"
 [[Mongoose]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ab948adf5e668a1b1f35edef577af69181c00067"
+git-tree-sha1 = "cc88420f0550a70b0c1a21d95c73d74d41942a3f"
 libc = "musl"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "681fd77a499b6e611882b1ebe3498fb632026c34bda24f68ae89cb6dead1e27b"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "70ff6d8cfbfe37ea1120ff8456fccb265a17a291f7968369ea2aa1b2bc465d3a"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.armv6l-linux-musleabihf.tar.gz"
 [[Mongoose]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "18f8b4833e808649f2b9b58218144be81d04c285"
+git-tree-sha1 = "165d7c0355345285afda7a8fd0f7a288d5b5d8a7"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "7689bbba39e0a0532f4e4d096edbf60aa70a3ac26d50e2056d5bdb8a5dbb5154"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "6dad9267d99c0c03e4eb4996e4c21879d7d9ad4dc6a8c3d73f51edcbba0ec18b"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.armv7l-linux-gnueabihf.tar.gz"
 [[Mongoose]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "81e5eb289bd5071397734172c47f798d8b1d3397"
+git-tree-sha1 = "3f2d22ca5f0f77a34b0f080216b955109b14f7be"
 libc = "musl"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "80d30d21b5e6bc4aaa5e38a7890fff92d29fedb88b069ca7a15bed1ac0433260"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "d8a04578607533948236795eacb40ae7c31357613f8af59bb990937b31940626"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.armv7l-linux-musleabihf.tar.gz"
 [[Mongoose]]
 arch = "i686"
-git-tree-sha1 = "d8fb0ab03b5d43db993bede21766839071d29df2"
+git-tree-sha1 = "4633e87889d915a3a83a2fbcd0676e8006580cb2"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "78f26593a015fce2f8fc8a16693bb6d17a441d6f5289e53496299fd7619f77a3"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.i686-linux-gnu.tar.gz"
+    sha256 = "f9430aa4b94b175ce5955505ed50c62fc2b316edd79a1e9244bb7e951231c6a7"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.i686-linux-gnu.tar.gz"
 [[Mongoose]]
 arch = "i686"
-git-tree-sha1 = "efd2bb3ff143d05cf7f5e1bf4699de1b39b3ff26"
+git-tree-sha1 = "c67c7aa3defafdc896988364807f0218bf40fd2f"
 libc = "musl"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "76d5eb2e2bcb221a9f78854f184fdcc271179c6356fd5e904ebfc4d07989687d"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.i686-linux-musl.tar.gz"
+    sha256 = "979a3515e304ca9cbc50025ffe3a61cfeb4e8d1fdfd738748363059afa5e6a4b"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.i686-linux-musl.tar.gz"
 [[Mongoose]]
 arch = "i686"
-git-tree-sha1 = "3d15ff95d4c8d2d692c5796f91fb2167a47f9ac9"
+git-tree-sha1 = "ae331a0000eefa72fc4b10ecc9212ea56f8db7dc"
 os = "windows"
 
     [[Mongoose.download]]
-    sha256 = "3caa2868a688acb44ac44e4ced1312c2fed72acdeecfe6b5dd924c5c18161286"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.i686-w64-mingw32.tar.gz"
+    sha256 = "b6d4454a5a98a9bbbb0da208b6f9f2be2e3ce3c069ae8c25444f71fa24bc8fe0"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.i686-w64-mingw32.tar.gz"
 [[Mongoose]]
 arch = "powerpc64le"
-git-tree-sha1 = "e84cace3aceede715a3c2dff67468d82fb4f0305"
+git-tree-sha1 = "aa9815e6b9f61f2d8de6aafcd99aec285ae3ef40"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "a92d42135014bc29cbfa212c4c83b44c99dcd13078c86f3614b0d4e1a990e5ad"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "5a0410374b396bd91fe957bf49354025d67252f981844285518aa35c4c05eb39"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.powerpc64le-linux-gnu.tar.gz"
 [[Mongoose]]
 arch = "riscv64"
-git-tree-sha1 = "904ab923d7d2eec21071c0f0491277688a9a49e1"
+git-tree-sha1 = "2ac790834e75df02cec3965919335186b9c6b1c1"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "9f1f45a40c2ad3ee09eeb5f85f0a227709343f66d40db501b2f7ed36609f3344"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "27c49b0e88ff1be5917c78fba03c715820c7b09a6700d600069b886c98868183"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.riscv64-linux-gnu.tar.gz"
 [[Mongoose]]
 arch = "x86_64"
-git-tree-sha1 = "83d5bbb16c2d3669009f9e21a49688e6ac798a76"
+git-tree-sha1 = "78f2b756101c242f89429f24fcd9094a71b8e74b"
 os = "macos"
 
     [[Mongoose.download]]
-    sha256 = "c6f8b058374f88eff63e8d9c1f915675b308e3195a9446c775b188d4f4f7a562"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "57b9f2112bbcb308d7db5acbb6940f1154e3f156e7862657ad1c94f48074a34d"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.x86_64-apple-darwin.tar.gz"
 [[Mongoose]]
 arch = "x86_64"
-git-tree-sha1 = "eac387a7d643fa355dbf58d15274c6fbca0ef5e1"
+git-tree-sha1 = "09f583f72a83bfb64c47b2737db11bb4200252f5"
 libc = "glibc"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "1dd2200352f40a34c7113c8c864c06921a578266d1c6b128864de2b3198ea7b1"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "90c236a6415871c307d4176b77ee6171ee22725fc37639043cf121412e07563e"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.x86_64-linux-gnu.tar.gz"
 [[Mongoose]]
 arch = "x86_64"
-git-tree-sha1 = "bf20c8576a98545ba0f7dd8ceffa74dcd818ffa1"
+git-tree-sha1 = "301be9b959e98a33db9022daae3b5c95765ec5c7"
 libc = "musl"
 os = "linux"
 
     [[Mongoose.download]]
-    sha256 = "fb36e2478e9a256528bc0f18f397ab9724d1166d2d58b3e8c709264f88f58d38"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.x86_64-linux-musl.tar.gz"
+    sha256 = "7213ff2a58cf19d76dacc9a3f91e1c683a6da684f95476757a0e79dda88566b6"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.x86_64-linux-musl.tar.gz"
 [[Mongoose]]
 arch = "x86_64"
-git-tree-sha1 = "7ce403a6a66036ed4823d9ba988dfb3f73db2615"
+git-tree-sha1 = "0035b12efe39e6c3763f05212c583ab4e1a55f7f"
 os = "freebsd"
 
     [[Mongoose.download]]
-    sha256 = "b30564e583c04e474d12bbf377be9bd28cdd59fb52d8b46df4c509155c485fb1"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "11e8a6d2e6489a1cad228fb3c90a3b7d3a2161621fc5f34414dac27039d06c77"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.x86_64-unknown-freebsd.tar.gz"
 [[Mongoose]]
 arch = "x86_64"
-git-tree-sha1 = "28aa1c562b9929bc80ced80af73e11d0df0b38d2"
+git-tree-sha1 = "8ab63c66fe33e018b71ba10d56eb7a6dbe7e5005"
 os = "windows"
 
     [[Mongoose.download]]
-    sha256 = "c56ccb427d3986391e66feaa951bccbe7c5a9493464aeea1454ca8b321952c6c"
-    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+0/Mongoose.v7.19.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "72ccbb142ef46602104f9ad90c8f726593c0cfc3d4cb14ba62f34c1020e78d7b"
+    url = "https://github.com/JuliaBinaryWrappers/Mongoose_jll.jl/releases/download/Mongoose-v7.19.0+1/Mongoose.v7.19.0.x86_64-w64-mingw32.tar.gz"
